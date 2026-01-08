@@ -1,3 +1,3 @@
 # Saeed Forati‑Kashani
 
-Resume and portfolio website — [sforati.ir](https://sforati.ir)
+Resume and portfolio website — [foratik.ir](https://foratik.ir)
